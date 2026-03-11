@@ -26,6 +26,8 @@ The project features a clean user interface with smooth animations, input icons,
 	1.	Download or clone the repository.
 	2.	Open the project folder.
 	3.	Open the file index.html in your browser.
+# Sreenshot
+![Modern Login Page](screenshot.png)
 
 
 	
